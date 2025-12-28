@@ -23,7 +23,7 @@ async def main():
     description = (
         "📢 Developer Jobs – Rasmiy Reklama Menejeri!\n\n"
 
-        "👋 Men DeFi Developer Jobs kanali reklama menejeriman!\n\n"
+        "👋 Men Developer Jobs kanali reklama menejeriman!\n\n"
         "📌 Bot orqali faqat reklama mavzusida xabar yuboring.\n\n"
         "⚠️ Boshqa mavzulardagi xabarlar ko‘rib chiqilmaydi.\n\n"
 

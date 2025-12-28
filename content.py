@@ -1,6 +1,6 @@
 # from django.utils.translation import gettext_lazy as _
 
-start_talk = f"📢 Assalomu alaykum! Men Developer Jobs kanali reklama menejeriman.\n\n ⚠️ Diqqat! Ushbu bot orqali faqat reklama berish istagida bo‘lganlar murojaat qilsin.\n\n 🚫 Boshqa mavzulardagi xabarlarga javob berilmaydi. Iltimos, ortiqcha bezovta qilmang!\n\n 💰 Developer Jobs kanalida reklama joylashtirish shartlari va narxlari:\n\n 👉 @defi_jobs_ads\n\n 📩 Samarali reklama uchun biz bilan bog‘laning! 🚀\n"
+start_talk = f"📢 Assalomu alaykum! Men Developer Jobs kanali reklama menejeriman.\n\n ⚠️ Diqqat! Ushbu bot orqali faqat reklama berish istagida bo‘lganlar murojaat qilsin.\n\n 🚫 Boshqa mavzulardagi xabarlarga javob berilmaydi. Iltimos, ortiqcha bezovta qilmang!\n\n 💰 Developer Jobs kanalida reklama joylashtirish shartlari va narxlari:\n\n 👉 @shahzod0604\n\n 📩 Samarali reklama uchun biz bilan bog‘laning! 🚀\n"
 
 qaytish = "Qaytish"
 company = "Kompaniya nomini kiriting:"
